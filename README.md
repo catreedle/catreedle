@@ -31,3 +31,9 @@ Here are some ideas to get you started:
 -->
 
 [![@catreedle's Holopin board](https://holopin.me/catreedle)](https://holopin.io/@catreedle)
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=catreedle&show_icons=true&theme=tokyonight" style="width: 100%; max-width: 900px;" />
+</div>
+
+
