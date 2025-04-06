@@ -8,7 +8,7 @@
 - 💬 Ask me about the subtle quirks of programming: things like recursion, mutability, assignment, aliasing, and floating-point errors.
 - 📫 How to reach me: Send me an email at purnamasrahayu@gmail.com.
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love cats, Twenty One Pilots, and Aurora.
+- ⚡ Fun fact: I love cats, Twenty One Pilots, Aurora, and Dance Gavin Dance.
 <!--
 **catreedle/catreedle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
