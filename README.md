@@ -1,7 +1,7 @@
 ### Hi there, I'm Purnama 👋
 
 - 📚 I studied Information Systems for two years (2013–2015), where I was first introduced to the charming world of Algorithms and Data Structures.
-- 🌱 I’m working on improving my skills in writing clean, testable code.
+- 🌱 I’m working on transitioning from someone who just types and hopes for the best into a decent (and hopefully one day, a really good) programmer.
 - 👯 I’m looking to collaborate on Javascript or Python projects, preferably in unit testing.
 - 🤓 I'm currently learning Computer Science through the OSSU Curriculum.
 - 🤔 I’m looking for help with finding a remote opportunity.
